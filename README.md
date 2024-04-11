@@ -1,6 +1,6 @@
 Automação de envio de mensagens WhasApp web
 
-Passos
+Passos:
 
 1 - Deixe seu WhatsApp web logado; 
 
