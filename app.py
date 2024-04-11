@@ -15,7 +15,7 @@ wordbook = openpyxl.load_workbook('clientes.xlsx')
 pagina_clientes = wordbook['Sheet1']
 
 linhas = list(pagina_clientes.iter_rows(min_row = 2))
-linhas.reverse()
+
 
 for linha in linhas:
     nome = linha [0].value 
