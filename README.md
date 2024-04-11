@@ -11,3 +11,5 @@ Passos:
 4 - Enquanto o código estiver sendo executado não mexa no mouse;
 
 5 - Você pode alterar o código a vontade para antender suas necessidades e o tipo da mensagem que deseja enviar; 
+
+6 - A planilha contem numeros falsos, então haverá um erro, coloque sua planilha com os números reais;
